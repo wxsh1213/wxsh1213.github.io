@@ -24,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student at MIT CSAIL, advised by Prof. Regina Barzilay(https://www.rbg.mit.edu/). Before MIT, I worked at ByteDance AI Lab with Hao Zhou(https://zhouh.github.io/) and Lei Li(https://lileicc.github.io/). I earned my master's and bachelor's degrees from Peking University.
+I am a Ph.D. student at MIT CSAIL, advised by Prof. [Regina Barzilay](https://www.rbg.mit.edu/). Before MIT, I worked at ByteDance AI Lab with [Hao Zhou](https://zhouh.github.io/) and [Lei Li](https://lileicc.github.io/). I earned my master's and bachelor's degrees from Peking University.
 
 My research focuses on applying machine learning to biological problems, with a particular interest in modeling protein evolution.
 
