@@ -191,6 +191,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/projects.md # projects
+  - projects/
 keep_files:
   - CNAME
   - .nojekyll
@@ -635,8 +637,4 @@ jsonresume:
   - skills
   - languages
   - interests
-  - references
-
-excludes:
-  - _pages/projects.md
-  - projects/
+  - references  
